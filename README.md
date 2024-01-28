@@ -9,7 +9,7 @@ What's up? I'm Valdir Ronis, a coding enthusiast navigating the tech universe wi
 ```javascript
 const ronis = {
   pronouns: ["He", "Him"],
-  personality: "ISTJ",
+  personality: "ESTJ",
   education: "UNIASSELVI - Analysis and Systems Development",
   hobbies: ["Gaming", "Tech exploration", "Singing"],
   skills: ["CSS3", "HTML5", "JavaScript", "MongoDB", "MySQL", "NodeJS", "PHP", "React", "React Native", "TypeScript"],
@@ -48,10 +48,10 @@ const ronis = {
 [youtube-url]: https://www.youtube.com/@xogum
 [youtube-badge]: https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white
 
-[tiktok-url]: https://www.tiktok.com/@ronisxogum
+[tiktok-url]: https://www.tiktok.com/@rxogum
 [tiktok-badge]: https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white
 
-[instagram-url]: https://instagram.com/ronisxogum
+[instagram-url]: https://instagram.com/rxogum
 [instagram-badge]: https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
 
 [![Twitch][twitch-badge]][twitch-url]
@@ -59,7 +59,7 @@ const ronis = {
 [![YouTube][youtube-badge]][youtube-url]
 [![Instagram][instagram-badge]][instagram-url]
 
-## 🚀 Let's Launch Together❗
+## Let's Launch Together 🚀
 
 Excited about coding, games, or just want to chat? Drop me a message, and let's embark on a cosmic conversation! 🚀✨
 
